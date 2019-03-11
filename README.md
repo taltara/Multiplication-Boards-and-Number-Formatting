@@ -24,3 +24,23 @@ for MaxMult = 4, the program would print out:
 - All printouts must be in table form, & each instance must be alligned correctly to the right (each digit above and under the correct ones
 from all lines).
 - Refrain from adding too many spaces (number on the bottom right should have 1 space before it).
+
+
+**Question 2:
+
+Write the function: 'void printFormattedIntegers(char* format, char* numbers)'
+
+The function receives as input:
+1) char array 'format'   - contains the printing format for numbers
+2) char array 'numbers'  - contains several (matching in number to the formatters) decimal numbers with an uncertain number of whitespaces between them.
+
+The functions must printout all text from 'format', with the numbers from array 'numbers' in the correct formatting dictated (by order) instaed of the '%' formatters in array 'format'.
+
+EX:
+
+For 'printFormattedIntegers("Dec: %d Hex: %x Roman: %r"," 123 10 9")'
+The function will printout: "Dec: 123 Hex: A Roman: IX"
+
+For 'printFormattedIntegers("%b in Binary is %o in Octal" ,"18 18")'
+The function will printout: "10010 in Binary is 22 in Octal"
+
