@@ -1,0 +1,7 @@
+﻿  Y1S2 MaTala1.c
+c:\users\talta\desktop\studies\mta\שנה א\סמסטר ב\c תכנות מתקדם\מטלות\מטלה 1\y1s2 matala1\y1s2 matala1\y1s2 matala1.c(37): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\talta\desktop\studies\mta\שנה א\סמסטר ב\c תכנות מתקדם\מטלות\מטלה 1\y1s2 matala1\y1s2 matala1\y1s2 matala1.c(349): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\talta\desktop\studies\mta\שנה א\סמסטר ב\c תכנות מתקדם\מטלות\מטלה 1\y1s2 matala1\y1s2 matala1\y1s2 matala1.c(349): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\talta\desktop\studies\mta\שנה א\סמסטר ב\c תכנות מתקדם\מטלות\מטלה 1\y1s2 matala1\y1s2 matala1\y1s2 matala1.c(349): note: the missing variadic argument 2 is required by format string '%c'
+  c:\users\talta\desktop\studies\mta\שנה א\סמסטר ב\c תכנות מתקדם\מטלות\מטלה 1\y1s2 matala1\y1s2 matala1\y1s2 matala1.c(349): note: this argument is used as a buffer size
+  Y1S2 MaTala1.vcxproj -> C:\Users\TalTa\Desktop\Studies\MTA\שנה א\סמסטר ב\C תכנות מתקדם\מטלות\מטלה 1\Y1S2 MaTala1\Debug\Y1S2 MaTala1.exe
