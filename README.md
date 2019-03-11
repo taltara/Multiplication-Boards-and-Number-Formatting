@@ -36,6 +36,13 @@ The function receives as input:
 
 The functions must printout all text from 'format', with the numbers from array 'numbers' in the correct formatting dictated (by order) instaed of the '%' formatters in array 'format'.
 
+Possible formatters:
+%d - converts 'int' to decimal
+%x - converts 'int' to hexadecimal
+%o - converts 'int' to octal
+%b - converts 'int' to binary
+%r - converts 'int' to roman numerals
+
 EX:
 
 For 'printFormattedIntegers("Dec: %d Hex: %x Roman: %r"," 123 10 9")'
